@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+venv/
+.venv/
+gt7_saved_laps.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
